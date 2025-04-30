@@ -13,12 +13,11 @@ C/C++ × Swift × Python
 void fastRead(int &x){
     int i = 0;
     char c;
-    int d = 1;
     while(true){
         c = getchar();
         if(c<'0'||c>'9') break;
-        i += (c-'0')*d;
-        d*=10;
+        i*=d;
+        i+= (c-'0');
     }
     x = i;
     return;
@@ -30,3 +29,7 @@ void fastOut(int x){
     putchar(((x%10)+'0'));
 }
 ```
+「伊琉ちゃん！」
+はーい! 
+「何が好き？」
+セグメントツリー、よりもあ・な・た！
