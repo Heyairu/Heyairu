@@ -9,7 +9,7 @@ C/C++ × Swift × Python
 《戀櫻》系列作者｜日常、BG、GL、校園、甜文好き！
 
 快讀快寫真的好好用（
-```
+```cpp
 void fastRead(int &x){
     int i = 0;
     char c;
