@@ -16,7 +16,7 @@ void fastRead(int &x){
     while(true){
         c = getchar();
         if(c<'0'||c>'9') break;
-        i*=d;
+        i*=10;
         i+= (c-'0');
     }
     x = i;
