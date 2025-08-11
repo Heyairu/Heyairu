@@ -2,11 +2,24 @@
 
 新人作家 × 資訊校隊選手 × 板中高一
 
-C/C++ × Swift × Python
-
-113新北市學科能力競賽複賽佳作
+C/C++｜113新北市學科能力競賽複賽佳作
 
 《戀櫻》系列作者｜日常、BG、GL、校園、甜文好き！
+
+---
+個人檔案連結
+
+Facebook：https://www.facebook.com/share/1B7VBR8dW7/
+
+Threads-雲空一高飲水機：https://www.threads.com/@kfshwater_ksaoffical
+
+KadoKado：https://www.kadokado.com.tw/user/167702
+---
+
+### 「伊琉ちゃん！」
+### はーい! 
+### 「何が好き？」
+### セグメントツリー、よりもあ・な・た！
 
 快讀快寫真的好好用（
 ```cpp
@@ -29,7 +42,4 @@ void fastOut(int x){
     putchar(((x%10)+'0'));
 }
 ```
-### 「伊琉ちゃん！」
-### はーい! 
-### 「何が好き？」
-### セグメントツリー、よりもあ・な・た！
+
